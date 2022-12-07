@@ -1,4 +1,4 @@
-I work primarily on the [Cyverse](https://cyvserse.org) project where my role is to expand the knowledge-base and accessibility of drone imagery tools while promoting the principles of open science. 
+I work primarily on the [Cyverse](http://www.cyvserse.org) project where my role is to expand the knowledge-base and accessibility of drone imagery tools while promoting the principles of open science. 
 
 <!---
 jeffgillan/jeffgillan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
