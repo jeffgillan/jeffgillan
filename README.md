@@ -2,8 +2,8 @@ I like developing geospatial imagery pipelines, teaching data science [workshops
 
 I'm on a mission to make the world's drone imagery accessible and useful for land and resource management. 
 
+<img src="https://raw.githubusercontent.com/jeffgillan/jeffgillan.github.io/refs/heads/master/images/GIF12.gif" width=250>
 
-https://raw.githubusercontent.com/jeffgillan/jeffgillan.github.io/refs/heads/master/images/GIF12.gif
 
 <!---
 jeffgillan/jeffgillan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
