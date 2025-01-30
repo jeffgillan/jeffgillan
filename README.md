@@ -4,7 +4,7 @@ I'm on a mission to make the world's drone imagery accessible and useful for lan
 
 <img src="https://raw.githubusercontent.com/jeffgillan/jeffgillan.github.io/refs/heads/master/images/GIF12.gif" width=250>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffgillanr&show_icons=true&locale=en&layout=compact" alt="jeffgillan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffgillan&show_icons=true&locale=en&layout=compact" alt="jeffgillan" /></p>
 
 <!---
 jeffgillan/jeffgillan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
