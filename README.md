@@ -4,6 +4,9 @@ I'm on a mission to make the world's drone imagery accessible and useful for lan
 
 <img src="https://raw.githubusercontent.com/jeffgillan/jeffgillan.github.io/refs/heads/master/images/GIF12.gif" width=250>
 
+<img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/drone_pipeline.png" width=800>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffgillan&show_icons=true&locale=en&layout=compact" alt="jeffgillan" /></p>
 
 <!---
